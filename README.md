@@ -19,12 +19,12 @@ My name is
 <a href="https://instagram.com/pduartesilva2005" target="_blank">
   <img alt="Instagram" src="https://img.shields.io/badge/@pduartesilva2005%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
-<a href="https://twitter.com/PedroPDuarte1" target="_blank">
-  <img alt="Twitter" src="https://img.shields.io/badge/@PedroPDuarte1%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white"/>
+<a href="https://twitter.com/pedroduarte2005" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/badge/@pedroduarte2005%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/pduartesilva2005/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/Pedro%20Duarte-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitch.tv/pedroduarte2005" target="_blank">
-  <img alt="Twitch" src="https://img.shields.io/badge/pedroduarte2005-9146FF?style=flat-square&logo=twitch&logoColor=white">
+<a href="https://twitch.tv/pduartesilva2005" target="_blank">
+  <img alt="Twitch" src="https://img.shields.io/badge/pduartesilva2005-9146FF?style=flat-square&logo=twitch&logoColor=white">
 </a>
